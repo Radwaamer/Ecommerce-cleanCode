@@ -1,0 +1,13 @@
+/* start error page */
+.error-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+.error-page h1{
+    font-size: 7rem;
+}
+/* end error page */
